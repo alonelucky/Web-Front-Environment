@@ -1,0 +1,2 @@
+bulid为开发文件夹
+product为输出文件夹
